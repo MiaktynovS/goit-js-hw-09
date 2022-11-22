@@ -1,7 +1,7 @@
 const refs = {
     btnStart: document.querySelector('[data-start]'),
     btnStop: document.querySelector('[data-stop]'),
-    bodyEl: document.querySelector('body')
+    bodyEl: document.querySelector('body'),
 }
 
 console.log(refs);
